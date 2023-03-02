@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707202721990",
+    "project_id": "my-notes-bogdroid",
+    "storage_bucket": "my-notes-bogdroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707202721990:android:1743b112a00cb8c633cfc7",
+        "android_client_info": {
+          "package_name": "com.example.learningdart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707202721990-jn40td7m14bdgpfr4j2rumhftbev6jtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVHoRviJJAgjs73VxckG2LcSlNF_xKtqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707202721990-jn40td7m14bdgpfr4j2rumhftbev6jtg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
